@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200FSeleniumProject - \u05E2\u05D5\u05EA\u05E7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB747C-8C1F-44D5-A25F-BB953D32C401}|SeleniumProject\\SeleniumProject.csproj|t:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200Fseleniumproject - \u05E2\u05D5\u05EA\u05E7\\seleniumproject\\pagesobjects\\googleresultspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB747C-8C1F-44D5-A25F-BB953D32C401}|SeleniumProject\\SeleniumProject.csproj|solutionrelative:seleniumproject\\pagesobjects\\googleresultspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB747C-8C1F-44D5-A25F-BB953D32C401}|SeleniumProject\\SeleniumProject.csproj|t:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200Fseleniumproject - \u05E2\u05D5\u05EA\u05E7\\seleniumproject\\pagesobjects\\googlehomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB747C-8C1F-44D5-A25F-BB953D32C401}|SeleniumProject\\SeleniumProject.csproj|solutionrelative:seleniumproject\\pagesobjects\\googlehomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB747C-8C1F-44D5-A25F-BB953D32C401}|SeleniumProject\\SeleniumProject.csproj|t:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200Fseleniumproject - \u05E2\u05D5\u05EA\u05E7\\seleniumproject\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB747C-8C1F-44D5-A25F-BB953D32C401}|SeleniumProject\\SeleniumProject.csproj|solutionrelative:seleniumproject\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB747C-8C1F-44D5-A25F-BB953D32C401}|SeleniumProject\\SeleniumProject.csproj|t:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200Fseleniumproject - \u05E2\u05D5\u05EA\u05E7\\seleniumproject\\testdata.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{38CB747C-8C1F-44D5-A25F-BB953D32C401}|SeleniumProject\\SeleniumProject.csproj|solutionrelative:seleniumproject\\testdata.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB747C-8C1F-44D5-A25F-BB953D32C401}|SeleniumProject\\SeleniumProject.csproj|t:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200Fseleniumproject - \u05E2\u05D5\u05EA\u05E7\\seleniumproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB747C-8C1F-44D5-A25F-BB953D32C401}|SeleniumProject\\SeleniumProject.csproj|solutionrelative:seleniumproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 47,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleResultsPage.cs",
+              "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200FSeleniumProject - \u05E2\u05D5\u05EA\u05E7\\SeleniumProject\\PagesObjects\\GoogleResultsPage.cs",
+              "RelativeDocumentMoniker": "SeleniumProject\\PagesObjects\\GoogleResultsPage.cs",
+              "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200FSeleniumProject - \u05E2\u05D5\u05EA\u05E7\\SeleniumProject\\PagesObjects\\GoogleResultsPage.cs",
+              "RelativeToolTip": "SeleniumProject\\PagesObjects\\GoogleResultsPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:34:09.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200FSeleniumProject - \u05E2\u05D5\u05EA\u05E7\\SeleniumProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SeleniumProject\\UnitTest1.cs",
+              "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200FSeleniumProject - \u05E2\u05D5\u05EA\u05E7\\SeleniumProject\\UnitTest1.cs",
+              "RelativeToolTip": "SeleniumProject\\UnitTest1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwEcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:09:53.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestData.xml",
+              "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200FSeleniumProject - \u05E2\u05D5\u05EA\u05E7\\SeleniumProject\\TestData.xml",
+              "RelativeDocumentMoniker": "SeleniumProject\\TestData.xml",
+              "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200FSeleniumProject - \u05E2\u05D5\u05EA\u05E7\\SeleniumProject\\TestData.xml",
+              "RelativeToolTip": "SeleniumProject\\TestData.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-30T17:04:46.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestData.cs",
+              "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200FSeleniumProject - \u05E2\u05D5\u05EA\u05E7\\SeleniumProject\\TestData.cs",
+              "RelativeDocumentMoniker": "SeleniumProject\\TestData.cs",
+              "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200FSeleniumProject - \u05E2\u05D5\u05EA\u05E7\\SeleniumProject\\TestData.cs",
+              "RelativeToolTip": "SeleniumProject\\TestData.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:19:57.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoogleHomePage.cs",
+              "DocumentMoniker": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200FSeleniumProject - \u05E2\u05D5\u05EA\u05E7\\SeleniumProject\\PagesObjects\\GoogleHomePage.cs",
+              "RelativeDocumentMoniker": "SeleniumProject\\PagesObjects\\GoogleHomePage.cs",
+              "ToolTip": "T:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E7\u05D1\u05D5\u05E6\u05D4 \u05D0\\\u05DE\u05E9\u05EA\u05DC\u05DE\u05D5\u05EA\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA \u05E4\u05E8\u05D9\u05D3\u05DE\u05DF\\\u05D0\u05D5\u05D8\u05D5\u05DE\u05E6\u05D9\u05D4\\\u200F\u200FSeleniumProject - \u05E2\u05D5\u05EA\u05E7\\SeleniumProject\\PagesObjects\\GoogleHomePage.cs",
+              "RelativeToolTip": "SeleniumProject\\PagesObjects\\GoogleHomePage.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:21:42.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
